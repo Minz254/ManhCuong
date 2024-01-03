@@ -1,0 +1,163 @@
+footer{
+    background-color: #222326;
+}
+.footer__top{
+    width: 100%;
+    background-color:#222326 ;
+}
+
+.footerTop__aboutUs{
+    width: 30%;
+}
+
+.footerTop__aboutUs h3{
+    color:white;
+    font-family: 'openSans';
+    font-size: 25px;
+}
+
+.footerTop__aboutUs p{
+    color:white;
+    font-family:'arialMT' ;
+    font-size: 14px;
+    line-height: 24px;
+
+}
+
+.aboutUs__info{
+
+}
+
+.aboutUs__info ul{
+    list-style: none;
+    padding:0;
+}
+
+.aboutUs__info .row{
+    justify-content: space-between;
+}
+
+.aboutUs__info .row i{
+   color: yellow;
+}
+.aboutUs__info ul li i{
+}
+
+.aboutUs__info ul li{
+    margin-bottom: 22px;
+    color:white;
+    font-family:'arialMT' ;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.aboutUs__socialNetworks{
+
+}
+
+.aboutUs__socialNetworks .row i{
+    color:yellow;
+    font-size: 24px;
+}
+
+.aboutUs__socialNetworks ul{
+    list-style: none;
+    padding:0;
+}
+
+.aboutUs__socialNetworks .row{
+    justify-content: space-between;
+}
+
+.footerTop__siteMaps{
+    margin-left: 36px;
+}
+
+.footerTop__siteMaps h4{
+    color:white;
+    font-family:'openSans' ;
+    font-size: 20px;
+    margin: 29px 0;
+}
+
+.footerTopSiteMap__list ul{
+    list-style: none;
+    padding:0;
+}
+
+.footerTopSiteMap__list ul li{
+   
+}
+
+.footerTopSiteMap__list ul li a{
+    color:white;
+    display: block;
+    text-decoration: none;
+    font-family: 'arialMT';
+    margin-bottom: 34px;
+}
+
+.footerTop__products{
+    margin-left: 36px;
+}
+
+.footerTop__products h4{
+    font-family:'openSans';
+    color: white;
+    font-size: 20px;
+    margin: 29px 0;
+}
+
+.footerTopProduct__list{
+
+}
+
+.footerTopProduct__list ul{
+    list-style: none;
+    padding: 0;
+}
+
+.footerTopProduct__list ul li{
+
+}
+
+.footerTopProduct__list ul li a{
+    color:white;
+    display: block;
+    text-decoration: none;
+    font-family: 'arialMT';
+    margin-bottom: 34px;
+}
+
+.footerTop__fanpage{
+    margin-left: 37px;
+}
+
+.footerTop__fanpage h4{
+    font-family:'openSans';
+    color: white;
+    font-size: 20px;
+    margin: 29px 0;
+}
+
+
+.footer__bottom{
+    background-color: #1a1c1f;
+    padding:24px;
+}
+
+.footer__bottom .row{
+    justify-content: space-between;
+}
+
+.footerBottom_left{
+    color:white;
+    font-size: 14px;
+    font-family:'arialMT' ;
+}
+
+.footerBottom__right{
+    color:white;
+    font-size: 14px;
+    font-family: 'arialMT';
+}
